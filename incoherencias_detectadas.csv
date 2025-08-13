@@ -1,0 +1,65 @@
+cliente_id,churn,genero,customer.SeniorCitizen,customer.Partner,customer.Dependents,meses_tenencia,telefono_servicio,telefono_lineas_multiples,internet_servicio,internet_seguridad,internet_respaldo,internet_proteccion,internet_soporte,internet_tv,internet_peliculas,contrato,facturacion_electronica,metodo_pago,cargo_mensual,cargo_total,internet_activo,telefono_activo,cuentas_diarias,servicios_contratados,gasto_estimado
+0323-xwwtn,0,male,0,no,yes,3,1,1,no,0,0,0,0,0,0,two year,1,mailed check,26.4,121.25,0,1,0.88,2,79.19999999999999
+1051-gejlj,0,female,0,no,no,2,1,0,no,0,0,0,0,0,0,month-to-month,0,mailed check,19.5,27.55,0,1,0.65,1,39.0
+1142-waczw,1,male,0,no,no,2,0,0,dsl,0,0,0,1,0,0,month-to-month,0,bank transfer (automatic),29.85,75.6,1,0,0.995,2,59.7
+1777-jyqpj,0,male,0,no,no,2,0,0,dsl,0,0,0,0,0,0,month-to-month,0,mailed check,24.3,38.45,1,0,0.81,1,48.6
+2005-dwqzj,0,female,0,yes,yes,8,1,0,no,0,0,0,0,0,0,two year,0,mailed check,19.05,201.7,0,1,0.635,1,152.4
+2108-ykqty,1,female,0,no,no,4,1,0,dsl,0,1,0,0,0,0,month-to-month,0,credit card (automatic),50.7,151.3,1,1,1.6900000000000002,3,202.8
+2219-mvuso,1,male,0,no,no,8,1,0,dsl,0,0,0,0,0,0,month-to-month,1,mailed check,45.15,438.4,1,1,1.505,2,361.2
+2276-ydavz,1,female,0,no,no,3,1,1,fiber optic,0,0,0,0,0,0,month-to-month,1,credit card (automatic),75.1,270.7,1,1,2.503333333333333,3,225.29999999999998
+2303-pjyhn,0,female,0,yes,no,2,1,0,no,0,0,0,0,0,0,month-to-month,0,bank transfer (automatic),19.85,52.0,0,1,0.6616666666666667,1,39.7
+2308-sterm,0,female,0,no,no,2,1,0,no,0,0,0,0,0,0,month-to-month,0,mailed check,19.4,61.05,0,1,0.6466666666666666,1,38.8
+2673-zalnp,0,female,0,no,no,7,1,0,no,0,0,0,0,0,0,one year,0,mailed check,19.9,173.15,0,1,0.6633333333333333,1,139.29999999999998
+2791-sfvew,0,female,0,no,no,9,1,0,no,0,0,0,0,0,0,month-to-month,0,bank transfer (automatic),20.15,238.15,0,1,0.6716666666666666,1,181.35
+2792-vppet,0,male,0,no,no,3,1,0,no,0,0,0,0,0,0,month-to-month,1,electronic check,20.5,76.95,0,1,0.6833333333333333,1,61.5
+2832-scuco,0,female,0,no,no,2,1,0,no,0,0,0,0,0,0,month-to-month,0,electronic check,19.9,57.4,0,1,0.6633333333333333,1,39.8
+2933-filnv,1,female,0,yes,yes,2,0,0,dsl,0,0,0,0,0,0,month-to-month,1,mailed check,24.4,36.55,1,0,0.8133333333333332,1,48.8
+3156-qlhbo,0,male,0,no,yes,2,1,0,no,0,0,0,0,0,0,month-to-month,0,mailed check,19.25,48.35,0,1,0.6416666666666667,1,38.5
+3345-jhueo,0,male,0,no,no,4,1,0,no,0,0,0,0,0,0,month-to-month,1,electronic check,20.2,55.7,0,1,0.6733333333333333,1,80.8
+3407-qgwlg,0,male,0,no,yes,3,1,0,no,0,0,0,0,0,0,month-to-month,1,mailed check,20.05,75.45,0,1,0.6683333333333333,1,60.150000000000006
+3489-hhpfy,0,female,0,yes,no,2,1,1,fiber optic,0,0,0,0,1,0,month-to-month,1,electronic check,84.05,134.05,1,1,2.8016666666666667,4,168.1
+3546-gheae,0,male,0,no,no,7,1,0,no,0,0,0,0,0,0,two year,0,mailed check,19.45,165.35,0,1,0.6483333333333333,1,136.15
+3677-iyrbf,1,female,1,no,no,2,0,0,dsl,0,0,1,0,0,0,month-to-month,1,electronic check,30.4,78.65,1,0,1.0133333333333332,2,60.8
+3815-slmef,1,female,0,no,no,3,0,0,dsl,1,0,0,1,0,0,month-to-month,0,mailed check,34.25,139.35,1,0,1.1416666666666666,3,102.75
+3845-fxcys,0,male,0,no,no,2,1,0,no,0,0,0,0,0,0,month-to-month,1,electronic check,19.65,31.2,0,1,0.6549999999999999,1,39.3
+4116-iqrfr,0,male,0,yes,yes,4,1,1,no,0,0,0,0,0,0,one year,0,credit card (automatic),24.1,73.1,0,1,0.8033333333333333,2,96.4
+4250-qvqru,0,male,0,no,yes,2,1,0,no,0,0,0,0,0,0,month-to-month,0,mailed check,19.25,48.35,0,1,0.6416666666666667,1,38.5
+4291-yzodp,0,female,0,no,yes,7,1,0,no,0,0,0,0,0,0,one year,0,mailed check,20.05,96.8,0,1,0.6683333333333333,1,140.35
+4396-klseh,0,male,0,no,no,4,1,0,no,0,0,0,0,0,0,month-to-month,1,electronic check,19.85,63.0,0,1,0.6616666666666667,1,79.4
+4713-lzdrv,1,female,1,no,no,2,1,0,fiber optic,0,0,0,0,0,1,month-to-month,1,electronic check,79.6,195.05,1,1,2.6533333333333333,3,159.2
+4741-wwjqz,0,female,0,yes,no,2,1,0,fiber optic,1,0,0,1,0,0,month-to-month,1,electronic check,80.15,194.55,1,1,2.671666666666667,4,160.3
+4797-miwum,0,male,0,yes,yes,7,1,0,no,0,0,0,0,0,0,month-to-month,1,bank transfer (automatic),20.25,174.7,0,1,0.675,1,141.75
+4878-smqbx,0,female,0,no,no,2,1,0,no,0,0,0,0,0,0,month-to-month,0,bank transfer (automatic),18.75,53.15,0,1,0.625,1,37.5
+4903-uyavb,1,male,0,yes,no,5,1,0,no,0,0,0,0,0,0,month-to-month,0,mailed check,19.35,126.05,0,1,0.645,1,96.75
+5066-gfjmm,0,female,0,yes,no,3,1,0,no,0,0,0,0,0,0,month-to-month,1,mailed check,19.9,45.75,0,1,0.6633333333333333,1,59.699999999999996
+5144-pqcdz,0,male,0,no,no,4,1,0,no,0,0,0,0,0,0,month-to-month,1,mailed check,19.95,59.25,0,1,0.6649999999999999,1,79.8
+5485-wuywf,1,male,1,no,no,2,1,0,dsl,1,0,1,0,1,0,month-to-month,0,bank transfer (automatic),66.4,94.55,1,1,2.2133333333333334,5,132.8
+6022-kouqo,0,female,0,yes,yes,2,0,0,dsl,0,0,0,1,0,0,month-to-month,0,bank transfer (automatic),29.05,44.75,1,0,0.9683333333333334,2,58.1
+6260-xlacs,0,male,0,no,no,4,1,0,no,0,0,0,0,0,0,one year,0,mailed check,19.7,117.8,0,1,0.6566666666666666,1,78.8
+6368-tzzdt,0,male,0,yes,yes,4,1,0,no,0,0,0,0,0,0,two year,0,credit card (automatic),19.5,96.85,0,1,0.65,1,78.0
+6598-rffvi,1,male,0,no,no,2,1,0,no,0,0,0,0,0,0,one year,0,credit card (automatic),19.3,28.3,0,1,0.6433333333333333,1,38.6
+6629-ladhq,0,female,0,no,no,2,1,0,dsl,1,0,0,0,0,0,month-to-month,0,mailed check,50.95,123.05,1,1,1.6983333333333335,3,101.9
+6750-fceks,0,male,0,no,no,2,0,0,dsl,0,0,0,1,0,0,month-to-month,0,bank transfer (automatic),29.85,75.6,1,0,0.995,2,59.7
+6817-wtyhe,0,male,0,no,no,2,1,0,dsl,0,0,0,0,0,0,month-to-month,0,bank transfer (automatic),44.9,111.05,1,1,1.4966666666666666,2,89.8
+7219-tlzho,0,female,0,yes,yes,4,1,0,no,0,0,0,0,0,0,month-to-month,0,mailed check,20.85,62.9,0,1,0.6950000000000001,1,83.4
+7343-eobeu,0,male,0,yes,no,3,1,1,no,0,0,0,0,0,0,month-to-month,1,mailed check,23.6,89.05,0,1,0.7866666666666667,2,70.80000000000001
+7369-trpfd,0,male,0,no,no,19,1,0,no,0,0,0,0,0,0,one year,0,mailed check,18.8,279.2,0,1,0.6266666666666667,1,357.2
+7762-onljy,0,female,0,yes,yes,6,1,0,no,0,0,0,0,0,0,one year,0,mailed check,19.7,94.45,0,1,0.6566666666666666,1,118.19999999999999
+7878-jgdkk,0,male,0,no,no,4,1,0,dsl,0,0,0,0,0,0,month-to-month,0,mailed check,44.55,220.75,1,1,1.4849999999999999,2,178.2
+8044-bgwpi,0,male,0,yes,yes,12,1,0,no,0,0,0,0,0,0,month-to-month,1,electronic check,21.15,306.05,0,1,0.705,1,253.79999999999998
+8053-wwdro,1,female,0,yes,no,6,1,0,no,0,0,0,0,0,0,month-to-month,0,bank transfer (automatic),19.5,146.3,0,1,0.65,1,117.0
+8148-wocmk,0,male,0,yes,yes,8,1,0,no,0,0,0,0,0,0,two year,0,credit card (automatic),19.6,125.0,0,1,0.6533333333333334,1,156.8
+8150-qudfx,0,male,0,no,no,2,1,0,no,0,0,0,0,0,0,month-to-month,0,mailed check,19.85,51.6,0,1,0.6616666666666667,1,39.7
+8295-fhivv,0,male,0,no,no,7,1,0,no,0,0,0,0,0,0,month-to-month,1,mailed check,19.4,168.65,0,1,0.6466666666666666,1,135.79999999999998
+8410-bgqxn,0,male,0,no,no,4,1,0,no,0,0,0,0,0,0,month-to-month,0,mailed check,19.4,93.4,0,1,0.6466666666666666,1,77.6
+8433-wxgna,1,male,0,no,no,2,1,0,fiber optic,1,0,0,0,0,0,month-to-month,1,electronic check,75.7,189.2,1,1,2.5233333333333334,3,151.4
+8610-zikjj,0,female,0,yes,yes,2,1,0,no,0,0,0,0,0,0,one year,0,mailed check,20.3,31.9,0,1,0.6766666666666666,1,40.6
+8713-igzso,0,male,0,no,no,2,1,1,no,0,0,0,0,0,0,month-to-month,0,mailed check,24.85,62.0,0,1,0.8283333333333334,2,49.7
+8993-phfwd,1,female,0,no,no,3,0,0,dsl,0,0,0,0,0,0,month-to-month,0,electronic check,25.25,58.9,1,0,0.8416666666666667,1,75.75
+9101-ntixf,0,male,0,no,no,2,1,0,no,0,0,0,0,0,0,month-to-month,0,mailed check,19.4,50.6,0,1,0.6466666666666666,1,38.8
+9364-hvjrk,0,male,0,no,no,8,1,0,dsl,0,0,0,0,0,0,month-to-month,1,mailed check,45.15,438.4,1,1,1.505,2,361.2
+9426-sxnhe,0,female,0,no,no,2,1,0,no,0,0,0,0,0,0,month-to-month,0,bank transfer (automatic),18.75,53.15,0,1,0.625,1,37.5
+9505-sqfsw,0,female,0,yes,yes,3,0,0,dsl,0,1,0,0,0,1,month-to-month,0,mailed check,40.3,92.5,1,0,1.3433333333333333,3,120.89999999999999
+9512-phsmg,0,female,0,yes,no,10,1,0,no,0,0,0,0,0,0,month-to-month,1,mailed check,20.55,252.75,0,1,0.685,1,205.5
+9708-tkntz,0,female,0,yes,yes,6,1,0,no,0,0,0,0,0,0,one year,0,mailed check,19.7,94.45,0,1,0.6566666666666666,1,118.19999999999999
+9796-mvyxx,0,female,1,no,no,14,0,0,dsl,1,0,1,1,0,0,two year,0,mailed check,39.7,692.35,1,0,1.3233333333333335,4,555.8000000000001
